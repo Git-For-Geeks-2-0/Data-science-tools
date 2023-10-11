@@ -1,12 +1,8 @@
-# Welcome to Git-For-Geeks!
+# Welcome to Git-For-Geeks 2.0!
 
 Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks Chapter of Shri Ramdeobaba College of Engineering and Management, Nagpur.
 
 # Data Science
-<div  align="center" >
-    <img  src="https://thedatascientist.com/wp-content/uploads/2019/06/what-is-data-science.jpg" height="300px" width="600px" />
-</div>
-
 #
 ### **Data science is using data to make better decisions with analysis for insight, statistics for causality, and machine learning for prediction.**
 #
